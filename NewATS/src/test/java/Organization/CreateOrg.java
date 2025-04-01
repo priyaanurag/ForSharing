@@ -7,6 +7,9 @@ public class CreateOrg {
 	{
 		
 		System.out.println("Org created ");
+		
+		String Org= "Qspider";
+		System.out.println(Org);
 	}
 
 }
