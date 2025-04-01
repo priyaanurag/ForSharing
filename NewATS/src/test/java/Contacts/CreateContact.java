@@ -7,6 +7,9 @@ public class CreateContact {
 	{
 		
 		System.out.println("This create contact ");
+		
+		String Contact= "Pradeep";
+		System.out.println(Contact);
 	}
 
 }
